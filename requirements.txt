@@ -1,6 +1,5 @@
 absl-py==2.2.2
 altair==5.5.0
-altgraph @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
 appnope==0.1.4
 asttokens==3.0.0
 astunparse==1.6.3
@@ -24,7 +23,6 @@ fastjsonschema==2.21.1
 filelock==3.17.0
 flatbuffers==25.2.10
 fonttools==4.55.3
-future @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
 gast==0.6.0
 gitdb==4.0.12
 GitPython==3.1.44
@@ -50,7 +48,6 @@ jupyterlab_widgets==3.0.13
 keras==3.9.2
 kiwisolver==1.4.7
 libclang==18.1.1
-macholib @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
 Markdown==3.7
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
@@ -93,7 +90,7 @@ rpds-py==0.24.0
 scikit-learn==1.6.1
 scipy==1.13.1
 seaborn==0.13.2
-six @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
+six==1.15.0
 smmap==5.0.2
 soupsieve==2.6
 stack-data==0.6.3
